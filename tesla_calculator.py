@@ -1,3 +1,4 @@
 # Tesla calculator - Elon Style
 print("⚡ Tesla Super cCalculator ⚡")
-print(" 🚀 Mission Started!")
+a = 100
+b = 25
