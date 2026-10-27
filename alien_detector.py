@@ -1,0 +1,2 @@
+# Alien Detector 
+import random
