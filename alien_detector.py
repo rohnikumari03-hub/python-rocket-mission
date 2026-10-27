@@ -6,4 +6,7 @@ status = ["No Life", "Alien Single Found! 👽", "Water Found 💧", "Unknown En
 
 print("Scanning Universe...")
 for planet in planets:
-  result = random
+  result = random.choice(status)
+  print(f" {planet}: {result}")
+  
+ptint
